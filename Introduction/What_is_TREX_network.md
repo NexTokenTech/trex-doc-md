@@ -1,4 +1,4 @@
-# Overview
+# About TREX
 
 TREX is the world’s first blockchain platform that enables decentralized timed-release encryption (dTRE) to unlock information (as serialized and structured data) and actions (as serialized procedures to be called in distributed remote nodes) for future events. 
 The data and procedures were encrypted and distributed in a decentralized blockchain network. The data or procedure would be only revealed or executed after specific counts of clock ticks. 
